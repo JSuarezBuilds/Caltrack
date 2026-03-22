@@ -16,10 +16,6 @@ A minimal, beautiful calorie and macro tracker that runs entirely in your browse
 - **Mobile-first dark UI** — optimized for phones, works as a home screen PWA on iOS
 - **Zero dependencies** — one HTML file, no build step, no frameworks, no server
 
-## Live
-
-**https://jsuarezbuilds.github.io/caltrack/**
-
 ## Add to Home Screen (iOS)
 
 1. Open the link above in Safari
